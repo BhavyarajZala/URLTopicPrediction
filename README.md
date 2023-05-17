@@ -1,4 +1,4 @@
-# URLTopicPrediction Web Application
+# URLTopic Prediction Web Application
 Predict Topic based on URL entered
 
 # APP Structure
